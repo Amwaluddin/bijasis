@@ -1,0 +1,46 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2015-12-04 09:16:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:17:17 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:19:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:20:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:20:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:22:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:23:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:25:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:39:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:41:36 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:42:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:42:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:43:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:43:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:45:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:45:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 09:55:52 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 10:12:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 10:21:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 10:21:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 10:26:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 10:26:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 10:28:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 10:35:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:37:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:37:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:41:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:43:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:44:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:45:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:46:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:47:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:49:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:52:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 11:55:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 12:01:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 12:02:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 12:04:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 12:05:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 12:06:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 12:07:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 12:17:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 12:18:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2015-12-04 03:36:23 --> Severity: Error --> Call to undefined function pg_connect() D:\xampp\htdocs\ciadmin\system\database\drivers\postgre\postgre_driver.php 154
